@@ -1,3 +1,5 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aname)](https://solved.ac/aname/)
+
 - 👋 Hi, I’m @aname8364
 - 👀 I’m interested in reverse engineering
 - 🌱 I’m currently learning general programming knowledge
